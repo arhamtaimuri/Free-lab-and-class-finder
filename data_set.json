@@ -1,0 +1,159 @@
+
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "Computer Lab 1",
+      "building": "CS Block",
+      "floor": 1,
+      "type": "Lab",
+      "capacity": 30
+    },
+    {
+      "id": 2,
+      "name": "ICT Lab",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Lab",
+      "capacity": 25
+    },
+    {
+      "id": 3,
+      "name": "LLC A",
+      "building": "CS Block",
+      "floor": 1,
+      "type": "Lecture Hall",
+      "capacity": 100
+    },
+    {
+      "id": 4,
+      "name": "LLC B",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Lecture Hall",
+      "capacity": 80
+    },
+    {
+      "id": 5,
+      "name": "Meeting Room 1",
+      "building": "Admin Block",
+      "floor": 1,
+      "type": "Meeting Room",
+      "capacity": 15
+    },
+    {
+      "id": 6,
+      "name": "Meeting Room 2",
+      "building": "Admin Block",
+      "floor": 2,
+      "type": "Meeting Room",
+      "capacity": 20
+    },
+    {
+      "id": 7,
+      "name": "Seminar Room",
+      "building": "CS Block",
+      "floor": 3,
+      "type": "Seminar",
+      "capacity": 40
+    },
+    {
+      "id": 8,
+      "name": "Computer Lab 2",
+      "building": "EE Block",
+      "floor": 1,
+      "type": "Lab",
+      "capacity": 35
+    },
+    {
+      "id": 9,
+      "name": "Conference Hall",
+      "building": "Admin Block",
+      "floor": 3,
+      "type": "Conference",
+      "capacity": 60
+    },
+    {
+      "id": 10,
+      "name": "ICT LAB",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "LAB",
+      "capacity": 25
+    }
+  ],
+  "bookings": [
+    {
+      "roomId": 1,
+      "day": "Monday",
+      "start": "09:00",
+      "end": "10:30"
+    },
+    {
+      "roomId": 1,
+      "day": "Monday",
+      "start": "11:00",
+      "end": "12:00"
+    },
+    {
+      "roomId": 2,
+      "day": "Monday",
+      "start": "10:00",
+      "end": "12:00"
+    },
+    {
+      "roomId": 3,
+      "day": "Monday",
+      "start": "08:30",
+      "end": "10:00"
+    },
+    {
+      "roomId": 4,
+      "day": "Tuesday",
+      "start": "09:00",
+      "end": "11:00"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "11:30",
+      "end": "12:30"
+    },
+    {
+      "roomId": 6,
+      "day": "Wednesday",
+      "start": "09:00",
+      "end": "10:00"
+    },
+    {
+      "roomId": 7,
+      "day": "Wednesday",
+      "start": "13:00",
+      "end": "15:00"
+    },
+    {
+      "roomId": 8,
+      "day": "Thursday",
+      "start": "10:00",
+      "end": "12:00"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "14:00",
+      "end": "16:00"
+    },
+    {
+      "roomId": 10,
+      "day": "Friday",
+      "start": "09:30",
+      "end": "11:00"
+    },
+    {
+      "roomId": 3,
+      "day": "Friday",
+      "start": "12:00",
+      "end": "13:30"
+    }
+  ]
+}
