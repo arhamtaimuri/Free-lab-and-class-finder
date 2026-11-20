@@ -1,0 +1,10862 @@
+{
+  "rooms": [
+    {
+      "id": 1,
+      "name": "AB2RoomE 31",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Classroom",
+      "capacity": 41
+    },
+    {
+      "id": 2,
+      "name": "AB2RoomE 29",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Classroom",
+      "capacity": 42
+    },
+    {
+      "id": 3,
+      "name": "AB2RoomD 23",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Classroom",
+      "capacity": 42
+    },
+    {
+      "id": 4,
+      "name": "AB2Lab9",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Lab",
+      "capacity": 51
+    },
+    {
+      "id": 5,
+      "name": "AB1RoomR 109",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 45
+    },
+    {
+      "id": 6,
+      "name": "AB1Room LLC",
+      "building": "CS Block",
+      "floor": 1,
+      "type": "Lecture Hall",
+      "capacity": 49
+    },
+    {
+      "id": 7,
+      "name": "AB1Lab2",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Lab",
+      "capacity": 48
+    },
+    {
+      "id": 8,
+      "name": "AB2RoomD 27",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Classroom",
+      "capacity": 46
+    },
+    {
+      "id": 9,
+      "name": "AB2RoomC 21",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 41
+    },
+    {
+      "id": 10,
+      "name": "AB2RoomB 10",
+      "building": "EE Block",
+      "floor": 1,
+      "type": "Classroom",
+      "capacity": 45
+    },
+    {
+      "id": 11,
+      "name": "AB1RoomE 4",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 53
+    },
+    {
+      "id": 12,
+      "name": "AB2RoomD 24",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Classroom",
+      "capacity": 52
+    },
+    {
+      "id": 13,
+      "name": "AB2RoomD 22",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Classroom",
+      "capacity": 51
+    },
+    {
+      "id": 14,
+      "name": "AB2Lab6",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Lab",
+      "capacity": 54
+    },
+    {
+      "id": 15,
+      "name": "AB1RoomR 12",
+      "building": "CS Block",
+      "floor": 0,
+      "type": "Classroom",
+      "capacity": 48
+    },
+    {
+      "id": 16,
+      "name": "AB2RoomE 35",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Classroom",
+      "capacity": 41
+    },
+    {
+      "id": 17,
+      "name": "AB2RoomC 18",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 40
+    },
+    {
+      "id": 18,
+      "name": "AB2RoomD 28",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Classroom",
+      "capacity": 51
+    },
+    {
+      "id": 19,
+      "name": "AB1RoomE 6",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 54
+    },
+    {
+      "id": 20,
+      "name": "AB2RoomA 6",
+      "building": "EE Block",
+      "floor": 0,
+      "type": "Classroom",
+      "capacity": 50
+    },
+    {
+      "id": 21,
+      "name": "AB2RoomC 20",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 52
+    },
+    {
+      "id": 22,
+      "name": "AB1Lab4",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Lab",
+      "capacity": 53
+    },
+    {
+      "id": 23,
+      "name": "AB2RoomA 8",
+      "building": "EE Block",
+      "floor": 0,
+      "type": "Classroom",
+      "capacity": 45
+    },
+    {
+      "id": 24,
+      "name": "AB2RoomC 17",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 45
+    },
+    {
+      "id": 25,
+      "name": "AB2RoomC 16",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 47
+    },
+    {
+      "id": 26,
+      "name": "AB2RoomB 11",
+      "building": "EE Block",
+      "floor": 1,
+      "type": "Classroom",
+      "capacity": 47
+    },
+    {
+      "id": 27,
+      "name": "AB1RoomE 2",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 40
+    },
+    {
+      "id": 28,
+      "name": "AB1Lab3",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Lab",
+      "capacity": 45
+    },
+    {
+      "id": 29,
+      "name": "AB2RoomA 5",
+      "building": "EE Block",
+      "floor": 0,
+      "type": "Classroom",
+      "capacity": 50
+    },
+    {
+      "id": 30,
+      "name": "AB2RoomC 12",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 45
+    },
+    {
+      "id": 31,
+      "name": "AB3Lab5",
+      "building": "Admin Block",
+      "floor": 2,
+      "type": "Lab",
+      "capacity": 44
+    },
+    {
+      "id": 32,
+      "name": "AB1Lab1",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Lab",
+      "capacity": 51
+    },
+    {
+      "id": 33,
+      "name": "AB2RoomB 9",
+      "building": "EE Block",
+      "floor": 1,
+      "type": "Classroom",
+      "capacity": 45
+    },
+    {
+      "id": 34,
+      "name": "AB1RoomR 11",
+      "building": "CS Block",
+      "floor": 0,
+      "type": "Classroom",
+      "capacity": 54
+    },
+    {
+      "id": 35,
+      "name": "AB2RoomA 1",
+      "building": "EE Block",
+      "floor": 0,
+      "type": "Classroom",
+      "capacity": 53
+    },
+    {
+      "id": 36,
+      "name": "AB2Lab10",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Lab",
+      "capacity": 51
+    },
+    {
+      "id": 37,
+      "name": "AB1RoomE 3",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 51
+    },
+    {
+      "id": 38,
+      "name": "AB2Lab8",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Lab",
+      "capacity": 51
+    },
+    {
+      "id": 39,
+      "name": "AB2RoomA 7",
+      "building": "EE Block",
+      "floor": 0,
+      "type": "Classroom",
+      "capacity": 54
+    },
+    {
+      "id": 40,
+      "name": "AB2Lab12",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Lab",
+      "capacity": 45
+    },
+    {
+      "id": 41,
+      "name": "AB2RoomC 19",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 52
+    },
+    {
+      "id": 42,
+      "name": "AB2RoomA 2",
+      "building": "EE Block",
+      "floor": 0,
+      "type": "Classroom",
+      "capacity": 54
+    },
+    {
+      "id": 43,
+      "name": "AB1RoomE 5",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 47
+    },
+    {
+      "id": 44,
+      "name": "AB2RoomE 33",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Classroom",
+      "capacity": 55
+    },
+    {
+      "id": 45,
+      "name": "AB2RoomD 26",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Classroom",
+      "capacity": 48
+    },
+    {
+      "id": 46,
+      "name": "AB2RoomA 3",
+      "building": "EE Block",
+      "floor": 0,
+      "type": "Classroom",
+      "capacity": 55
+    },
+    {
+      "id": 47,
+      "name": "Academic Block II Physics Lab",
+      "building": "EE Block",
+      "floor": 0,
+      "type": "Lab",
+      "capacity": 51
+    },
+    {
+      "id": 48,
+      "name": "AB2RoomC 13",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 54
+    },
+    {
+      "id": 49,
+      "name": "AB2RoomC 14",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 54
+    },
+    {
+      "id": 50,
+      "name": "Academic Block II Electronics Lab",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Lab",
+      "capacity": 51
+    },
+    {
+      "id": 51,
+      "name": "AB2RoomC 15",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 54
+    },
+    {
+      "id": 52,
+      "name": "AB2Lab13",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Lab",
+      "capacity": 55
+    },
+    {
+      "id": 53,
+      "name": "AB2Lab11",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Lab",
+      "capacity": 47
+    },
+    {
+      "id": 54,
+      "name": "AB2RoomD 25",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Classroom",
+      "capacity": 50
+    },
+    {
+      "id": 55,
+      "name": "AB2RoomE 30",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Classroom",
+      "capacity": 45
+    },
+    {
+      "id": 56,
+      "name": "AB2RoomEng Lang",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Lecture Hall",
+      "capacity": 48
+    },
+    {
+      "id": 57,
+      "name": "AB2RoomE 34",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Classroom",
+      "capacity": 55
+    },
+    {
+      "id": 58,
+      "name": "AB1RoomE 1",
+      "building": "CS Block",
+      "floor": 2,
+      "type": "Classroom",
+      "capacity": 49
+    },
+    {
+      "id": 59,
+      "name": "AB2RoomE 32",
+      "building": "EE Block",
+      "floor": 4,
+      "type": "Classroom",
+      "capacity": 49
+    },
+    {
+      "id": 60,
+      "name": "AB2Lab7",
+      "building": "EE Block",
+      "floor": 2,
+      "type": "Lab",
+      "capacity": 53
+    },
+    {
+      "id": 61,
+      "name": "Academic Block II Microprocessor and Interfacing Lab",
+      "building": "EE Block",
+      "floor": 3,
+      "type": "Lab",
+      "capacity": 49
+    }
+  ],
+  "bookings": [
+    {
+      "roomId": 1,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 2,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 3,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 4,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 5,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 6,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 7,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 5,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 8,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 8,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 2,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 2,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 9,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 10,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 11,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 12,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 13,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 14,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 8,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 16,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 16,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 17,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 9,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 18,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 18,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 7,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 15,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 12,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 19,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 20,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 21,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 22,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 3,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 23,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 24,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 10,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 25,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 25,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 14,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 26,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 27,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 27,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 10,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 28,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 29,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 30,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 19,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 31,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 24,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 23,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 32,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 32,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 33,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 34,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 35,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 5,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 36,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 32,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 2,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 29,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 37,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 13,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 13,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 38,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 20,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 24,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 14,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 23,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 23,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 23,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 12,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 12,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 32,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 30,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 23,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 39,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 29,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 40,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 41,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 20,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 42,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 27,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 8,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 29,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 20,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 42,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 14,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 3,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 43,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 44,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 44,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 10,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 33,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 27,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 39,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 27,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 27,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 27,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 45,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 42,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 42,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 39,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 46,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 46,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 20,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 45,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 29,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 20,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 32,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 24,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 24,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 30,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 30,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 4,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 25,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 17,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 8,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 25,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 47,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 48,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 49,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 49,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 30,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 33,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 48,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 25,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 25,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 25,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 50,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 49,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 51,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 51,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 49,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 30,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 25,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 38,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 51,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 51,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 51,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 51,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 49,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 49,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 26,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 47,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 25,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 51,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 51,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 51,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 51,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 51,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 49,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 49,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 49,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 50,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 25,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 25,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 25,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 30,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 49,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 49,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 38,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 51,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 51,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 17,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 52,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 43,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 15,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 18,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 6,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 12,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 32,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 45,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 5,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 3,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 1,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 3,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 43,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 19,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 19,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 31,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 24,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 43,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 17,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 17,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 3,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 9,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 41,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 6,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 18,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 1,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 1,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 19,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 41,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 41,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 53,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 51,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 21,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 25,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 49,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 3,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 28,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 41,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 9,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 52,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 54,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 13,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 12,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 51,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 19,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 35,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 9,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 26,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 33,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 26,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 55,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 44,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 44,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 21,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 8,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 17,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 28,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 55,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 15,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 43,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 4,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 6,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 54,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 30,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 52,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 54,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 34,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 54,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 16,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 16,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 3,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 13,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 43,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 11,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 25,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 4,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 21,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 46,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 26,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 17,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 42,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 24,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 22,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 35,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 18,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 42,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 35,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 20,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 20,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 20,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 32,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 43,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 9,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 26,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 52,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 56,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 57,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 34,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 54,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 3,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 18,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 55,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 55,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 16,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 24,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 14,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 11,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 52,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 10,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 10,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 26,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 18,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 24,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 25,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 12,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 1,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 13,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 56,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 17,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 25,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 40,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 49,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 46,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 33,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 23,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 33,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 33,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 33,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 28,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 1,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 35,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 49,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 40,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 5,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 30,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 6,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 30,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 49,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 18,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 6,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 1,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 35,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 40,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 18,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 8,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 44,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 35,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 20,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 15,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 22,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 11,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 30,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 30,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 18,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 10,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 53,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 23,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 21,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 18,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 18,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 18,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 49,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 8,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 8,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 18,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 18,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 1,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 26,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 31,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 3,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 8,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 12,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 12,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 12,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 28,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 12,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 15,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 3,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 19,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 43,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 24,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 45,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 45,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 15,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 15,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 19,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 36,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 41,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 22,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 15,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 27,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 43,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 14,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 39,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 33,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 57,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 57,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 33,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 19,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 5,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 7,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 34,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 19,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 26,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 58,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 58,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 43,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 25,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 40,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 46,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 17,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 43,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 22,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 34,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 19,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 18,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 48,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 13,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 58,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 39,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 33,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 19,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 19,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 46,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 13,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 13,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 53,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 3,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 43,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 54,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 13,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 36,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 19,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 54,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 54,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 18,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 11,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 43,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 19,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 19,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 40,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 54,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 23,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 23,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 39,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 11,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 34,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 43,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 34,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 36,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 43,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 5,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 53,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 39,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 29,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 37,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 37,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 20,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 20,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 20,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 8,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 43,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 9,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 30,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 30,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 3,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 19,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 7,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 20,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 29,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 29,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 37,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 37,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 13,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 23,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 41,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 32,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 58,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 13,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 26,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 26,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 31,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 58,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 37,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 9,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 3,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 7,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 43,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 2,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 2,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 11,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 19,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 19,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 8,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 4,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 15,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 58,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 8,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 36,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 19,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 20,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 24,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 5,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 26,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 28,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 8,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 5,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 26,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 10,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 17,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 18,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 18,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 8,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 22,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 46,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 29,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 39,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 29,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 39,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 11,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 43,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 9,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 12,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 17,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 31,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 45,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 43,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 2,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 2,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 12,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 3,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 12,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 3,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 3,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 19,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 29,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 42,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 27,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 54,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 20,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 29,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 46,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 46,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 11,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 10,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 26,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 5,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 43,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 33,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 26,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 14,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 42,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 42,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 58,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 35,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 18,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 11,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 23,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 23,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 33,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 33,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 23,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 11,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 11,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 27,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 27,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 7,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 42,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 32,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 58,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 15,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 23,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 39,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 39,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 23,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 11,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 12,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 39,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 27,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 42,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 46,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 42,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 42,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 35,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 58,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 5,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 5,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 39,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 23,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 11,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 23,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 39,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 37,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 42,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 35,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 32,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 27,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 27,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 5,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 58,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 5,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 5,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 23,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 39,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 39,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 39,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 59,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 23,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 10,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 39,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 7,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 5,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 35,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 5,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 5,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 15,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 39,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 23,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 32,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 39,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 29,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 39,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 39,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 37,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 27,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 27,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 5,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 5,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 5,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 5,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 28,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 15,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 45,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 20,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 20,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 43,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 20,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 46,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 20,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 5,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 5,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 15,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 5,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 46,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 15,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 15,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 7,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 20,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 20,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 20,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 42,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 39,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 37,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 39,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 15,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 34,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 15,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 15,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 15,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 34,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 20,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 20,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 1,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 20,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 22,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 58,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 15,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 15,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 34,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 34,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 34,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 46,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 8,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 8,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 37,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 37,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 28,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 15,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 58,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 34,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 37,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 27,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 11,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 43,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 19,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 15,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 17,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 37,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 11,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 54,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 46,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 32,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 28,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 32,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 55,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 27,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 15,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 27,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 35,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 35,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 20,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 29,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 11,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 37,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 43,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 42,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 27,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 19,
+      "day": "Wednesday",
+      "start": null,
+      "end": null
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 27,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 42,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 29,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 27,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 27,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 42,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 42,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 27,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 46,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 42,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 58,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 27,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 46,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 46,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 42,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 35,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 35,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 42,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 42,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 42,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 46,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 46,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 46,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 35,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 35,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 11,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 35,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 35,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 35,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 46,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 29,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 42,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 27,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 27,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 58,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 5,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 42,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 58,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 58,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 58,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 5,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 5,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 42,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 42,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 58,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 58,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 58,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 5,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 5,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 42,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 42,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 58,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 15,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 20,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 15,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 35,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 35,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 35,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 34,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 42,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 54,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 58,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 58,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 35,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 34,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 27,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 35,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 34,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 58,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 35,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 26,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 1,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 12,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 2,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 14,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 34,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 59,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 1,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 36,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 12,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 54,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 2,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 54,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 21,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 42,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 46,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 46,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 25,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 12,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 18,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 41,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 18,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 55,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 55,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 37,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 45,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 21,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 31,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 58,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 35,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 42,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 42,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 52,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 9,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 9,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 54,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 17,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 39,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 53,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 34,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 34,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 10,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 26,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 8,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 5,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 53,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 17,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 41,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 8,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 33,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 24,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 39,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 24,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 23,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 22,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 53,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 17,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 19,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 33,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 10,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 34,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 2,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 25,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 17,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 33,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 8,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 24,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 54,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 27,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 7,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 60,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 46,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 26,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 45,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 13,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 60,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 26,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 52,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 3,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 26,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 26,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 28,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 2,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 20,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 39,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 1,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 7,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 18,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 58,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 42,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 46,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 28,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 58,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 58,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 46,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 46,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 58,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 29,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 29,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 20,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 43,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 42,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 46,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 29,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 43,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 60,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 44,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 44,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 44,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 1,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 9,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 9,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 32,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 6,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 59,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 32,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 2,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 2,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 2,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 2,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 13,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 41,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 41,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 24,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 25,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 7,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 1,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 24,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 54,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 59,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 4,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 3,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 45,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 6,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 13,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 25,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 44,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 44,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 55,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 55,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 30,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 49,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 54,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 12,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 48,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 22,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 38,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 11,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 18,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 13,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 41,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 34,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 36,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 43,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 25,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 25,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 26,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 20,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 29,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 22,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 20,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 20,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 10,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 10,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 33,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 33,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 13,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 60,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 33,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 60,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 46,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 46,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 10,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 24,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 20,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 41,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 41,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 42,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 35,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 35,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 33,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 33,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 31,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 23,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 33,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 37,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 39,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 23,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 23,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 23,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 14,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 17,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 22,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 25,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 25,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 30,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 38,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 51,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 47,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 4,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 25,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 25,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 48,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 49,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 49,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 45,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 30,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 30,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 51,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 51,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 30,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 47,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 25,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 25,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 38,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 38,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 24,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 48,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 49,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 48,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 48,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 48,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 45,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 38,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 24,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 50,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 30,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 30,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 48,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 48,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 48,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 48,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 61,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 48,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 48,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 30,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 49,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 51,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 51,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 30,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 30,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 30,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 30,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 30,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 51,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 4,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 47,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 50,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 50,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 38,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 48,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 48,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 30,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 30,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 51,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 51,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 48,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 48,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 30,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 30,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 51,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 30,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 51,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 61,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 4,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 30,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 51,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 61,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 48,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 48,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 30,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 48,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 49,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 49,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 30,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 48,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 48,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 47,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 49,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 51,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 51,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 51,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 30,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 4,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 24,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 48,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 30,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 48,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 61,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 25,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 25,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 48,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 48,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 30,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 48,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 51,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 51,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 51,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 47,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 49,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 49,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 49,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 49,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 61,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 47,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 30,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 30,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 51,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 51,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 51,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 4,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 24,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 48,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 25,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 25,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 1,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 38,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 49,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 49,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 49,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 49,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 38,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 12,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 3,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 9,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 13,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 45,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 59,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 59,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 17,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 3,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 31,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 8,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 57,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 59,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 1,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 6,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 31,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 12,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 51,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 3,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 22,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 13,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 41,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 9,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 59,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 13,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 24,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 45,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 45,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 24,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 9,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 45,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 54,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 54,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 3,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 54,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 53,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 3,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 6,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 13,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 13,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 12,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 17,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 17,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 9,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 13,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 13,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 6,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 54,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 54,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 54,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 2,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 40,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 8,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 13,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 25,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 26,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 36,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 9,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 9,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 31,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 45,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 15,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 18,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 9,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 14,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 41,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 59,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 2,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 12,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 57,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 45,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 41,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 41,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 12,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 56,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 43,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 41,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 17,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 56,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 34,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 18,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 9,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 24,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 55,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 55,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 53,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 55,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 3,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 3,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 3,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 9,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 17,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 43,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 38,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 34,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 54,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 24,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 24,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 24,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 24,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 54,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 59,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 59,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 51,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 17,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 53,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 52,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 56,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 51,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 55,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 55,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 8,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 11,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 16,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 16,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 7,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 16,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 55,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 41,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 21,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 24,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 2,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 59,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 45,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 13,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 12,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 13,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 40,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 57,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 10,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 13,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 13,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 24,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 9,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 25,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 25,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 14,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 41,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 22,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 21,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 57,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 12,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 57,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 57,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 26,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 9,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 9,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 17,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 24,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 8,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 8,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 55,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 25,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 26,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 12,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 41,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 36,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 24,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 25,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 12,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 13,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 21,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 24,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 10,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 57,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 30,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 14,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 23,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 23,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 54,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 35,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 9,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 36,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 51,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 45,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 10,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 10,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 53,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 1,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 1,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 4,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 44,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 17,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 24,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 24,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 9,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 52,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 8,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 26,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 35,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 25,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 35,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 20,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 39,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 39,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 3,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 10,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 33,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 33,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 23,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 45,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 24,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 24,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 49,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 24,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 24,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 35,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 23,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 33,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 52,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 45,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 35,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 55,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 9,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 20,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 29,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 2,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 33,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 12,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 23,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 55,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 55,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 39,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 39,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 28,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 35,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 39,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 33,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 23,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 55,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 20,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 54,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 11,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 2,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 8,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 26,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 39,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 39,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 41,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 41,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 4,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 41,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 26,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 23,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 23,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 59,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 29,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 37,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 55,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 11,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 41,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 19,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 39,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 2,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 23,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 40,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 44,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 51,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 43,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 26,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 25,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 59,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 39,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 37,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 17,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 39,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 36,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 2,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 2,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 29,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 29,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 10,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 26,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 10,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 3,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 26,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 13,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 10,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 10,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 33,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 39,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 29,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 42,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 23,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 28,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 59,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 54,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 41,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 41,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 29,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 44,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 44,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 33,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 54,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 11,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 10,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 10,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 43,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 38,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 29,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 46,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 22,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 26,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 29,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 29,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 46,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 46,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 41,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 37,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 37,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 54,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 54,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 28,
+      "day": "Wednesday",
+      "start": null,
+      "end": null
+    },
+    {
+      "roomId": 3,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 3,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 1,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 11,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 14,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 23,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 23,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 42,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 35,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 35,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 36,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 34,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 35,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 17,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 1,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 1,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 54,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 29,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 34,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 4,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 41,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 43,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 41,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 5,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 16,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 16,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 31,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 2,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 41,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 56,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 19,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 55,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 55,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 8,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 43,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 45,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 11,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 19,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 40,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 11,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 35,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 26,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 26,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 26,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 7,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 4,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 15,
+      "day": "Wednesday",
+      "start": null,
+      "end": null
+    },
+    {
+      "roomId": 16,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 1,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 41,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 37,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 35,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 11,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 37,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 24,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 45,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 10,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 29,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 29,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 3,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 17,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 37,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 27,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 13,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 42,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 11,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 29,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 3,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 32,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 26,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 11,
+      "day": "Wednesday",
+      "start": null,
+      "end": null
+    },
+    {
+      "roomId": 40,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 16,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 16,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 53,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 58,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 13,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 13,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 19,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 46,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 18,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 18,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 19,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 34,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 14,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 17,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 17,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 41,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 31,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 12,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 16,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 3,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 17,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 21,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 41,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 9,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 13,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 54,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 9,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 16,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 3,
+      "day": "Friday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 54,
+      "day": "Friday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 17,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 48,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 17,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 13,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 12,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 3,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 38,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 18,
+      "day": "Tuesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 24,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 3,
+      "day": "Wednesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 41,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 35,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 51,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 25,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 6,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 46,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 40,
+      "day": "Friday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 9,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 30,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 10,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 30,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 51,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 26,
+      "day": "Monday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 3,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 35,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 9,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 40,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 14,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 57,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 55,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 12,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 21,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 13,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 42,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 16,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 10,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 43,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 28,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 13,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 9,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 17,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 6,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 17,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 26,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 35,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 34,
+      "day": "Wednesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 34,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 17,
+      "day": "Wednesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 46,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 9,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 36,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 12,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 33,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 43,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 13,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 31,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 55,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 45,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 51,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 49,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 26,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 10,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 19,
+      "day": "Tuesday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 31,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 36,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 2,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 45,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 59,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 17,
+      "day": "Thursday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 41,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 34,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 39,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 12,
+      "day": "Monday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 23,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 23,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 9,
+      "day": "Monday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 45,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 10,
+      "day": "Tuesday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 10,
+      "day": "Tuesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 33,
+      "day": "Tuesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 58,
+      "day": "Tuesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 7,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 7,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "16:05"
+    },
+    {
+      "roomId": 25,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 24,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 19,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 27,
+      "day": "Monday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 27,
+      "day": "Monday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 27,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 46,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 26,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 10,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 24,
+      "day": "Thursday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 17,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 52,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "13:25"
+    },
+    {
+      "roomId": 43,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 11,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 45,
+      "day": "Friday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 45,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 37,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 1,
+      "day": "Friday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 20,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 32,
+      "day": "Monday",
+      "start": "08:00",
+      "end": "10:40"
+    },
+    {
+      "roomId": 42,
+      "day": "Monday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 27,
+      "day": "Monday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 58,
+      "day": "Monday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 23,
+      "day": "Wednesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 23,
+      "day": "Wednesday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 33,
+      "day": "Wednesday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 33,
+      "day": "Thursday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 55,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 11,
+      "day": "Thursday",
+      "start": "15:20",
+      "end": "16:05"
+    },
+    {
+      "roomId": 11,
+      "day": "Thursday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 33,
+      "day": "Thursday",
+      "start": "14:25",
+      "end": "15:15"
+    },
+    {
+      "roomId": 29,
+      "day": "Friday",
+      "start": "08:55",
+      "end": "09:45"
+    },
+    {
+      "roomId": 42,
+      "day": "Friday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 1,
+      "day": "Friday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 27,
+      "day": "Friday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 46,
+      "day": "Tuesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 11,
+      "day": "Tuesday",
+      "start": "10:45",
+      "end": "11:35"
+    },
+    {
+      "roomId": 46,
+      "day": "Tuesday",
+      "start": "12:35",
+      "end": "13:25"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "08:00",
+      "end": "08:50"
+    },
+    {
+      "roomId": 29,
+      "day": "Wednesday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 37,
+      "day": "Wednesday",
+      "start": "11:40",
+      "end": "12:30"
+    },
+    {
+      "roomId": 19,
+      "day": "Thursday",
+      "start": "13:30",
+      "end": "14:20"
+    },
+    {
+      "roomId": 20,
+      "day": "Thursday",
+      "start": "09:50",
+      "end": "10:40"
+    },
+    {
+      "roomId": 20,
+      "day": "Thursday",
+      "start": "10:45",
+      "end": "11:35"
+    }
+  ]
+}
