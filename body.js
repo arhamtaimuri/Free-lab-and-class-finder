@@ -21,6 +21,11 @@ async function loadData() {   // this function will fetch data from JSON file
          bookings=data.bookings;
 
     }
+    catch (error) {
+        console.error("loadData failed:", error);
+        throw error;   // lets startApp show the message on the page
+    }
+}
 
     rooms = data.rooms;
     bookings = [...data.bookings];
@@ -53,7 +58,7 @@ function loadSavedBookings() {
     if (!savedBookings) {
         return;
     }
-
+}
 function timetominutes(time){   // this function will convert hours to minute and ad will minutes
     let parts=time.split(":");   // 3:45 will be return as 225 minutes
     let hour=Number(parts[0]);
@@ -67,7 +72,7 @@ function timetominutes(time){   // this function will convert hours to minute an
         if (
             typeof booking.id !== "string" ||
             !roomExists ||
-            !weekdayOrder.includes(booking.day) ||
+                    !weekdayOrder.includes(booking.day) ||
             !isValidTime(booking.start) ||
             !isValidTime(booking.end) ||
             timeToMinutes(booking.end) <= timeToMinutes(booking.start) ||
@@ -90,7 +95,9 @@ function isRoomBusy(roomId, day, start, end){   // it will return whether room i
          if (bookings[i].roomId===roomId && bookings[i].day === day){  //bookings[i].roomid is the room id written in JSON file
                  const bookingstart=timetominutes(bookings[i].start);   // roomid  which is compared with bookings[i].roomid is the one user gave
         const bookingend=timetominutes(bookings[i].end);
-
+         }
+        }
+    }
 function isValidTime(time) {
     if (typeof time !== "string" || !/^\d{2}:\d{2}$/.test(time)) {
         return false;
